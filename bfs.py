@@ -1,4 +1,4 @@
-#Implementation of Breadth First Search Algorithm
+#Implementation of Breadth First Search Algorithm without recursion.
 from collections import deque
 
 class Node:
